@@ -130,6 +130,8 @@ PRODUCT_PACKAGES += \
     libC2D2 \
     libCB \
     libOpenCL \
+    libVkLayer_q3dtools \
+    libadreno_app_profiles \
     libadreno_utils \
     libadsp_default_listener \
     libadsprpc \
@@ -141,6 +143,7 @@ PRODUCT_PACKAGES += \
     libdiag \
     libfastcvdsp_stub \
     libfastcvopt \
+    libgpudataproducer \
     libgsl \
     libllvm-glnext \
     libllvm-qcom \
